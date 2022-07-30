@@ -1,0 +1,11 @@
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\bin\Debug\PEA1.exe.config
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\bin\Debug\PEA1.exe
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\bin\Debug\PEA1.pdb
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.csproj.AssemblyReference.cache
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.frmTipoDocumento.resources
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.frmTipoDocumentoEdit.resources
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.Properties.Resources.resources
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.csproj.GenerateResource.cache
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.csproj.CoreCompileInputs.cache
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.exe
+D:\CLASES SISE\Des. de soluciones empresariales\proyectos\PEA1\PEA1\obj\Debug\PEA1.pdb
